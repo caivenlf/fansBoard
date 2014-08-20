@@ -1,3 +1,3 @@
 fansBoard
 =========
-it's just a test
+test for Git Hub
